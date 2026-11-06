@@ -1,0 +1,77 @@
+{
+   "code":0,
+   "message":"Found: 1",
+   "objects":{
+      "PC::7186":{
+         "code":0,
+         "message":"",
+         "class":"PC",
+         "key":"7186",
+         "fields":{
+            "name":"YAOCLT2508",
+            "description":"20\/06\/2025 se realizo la asignacion a Jose Rollano\r\nASIGDEV25135\r\nEquipo de TEPSI",
+            "org_id":"17",
+            "organization_name":"TEPSI",
+            "business_criticity":"low",
+            "move2production":"16\/06\/2025",
+            "contacts_list":[
+               {
+                  "contact_id":"1211",
+                  "contact_name":"Rollano Montes",
+                  "friendlyname":"Rollano Montes \/ YAOCLT2508",
+                  "contact_id_friendlyname":"Huascar Jose Rollano Montes",
+                  "contact_id_finalclass_recall":"Person",
+                  "contact_id_obsolescence_flag":""
+               }
+            ],
+            "documents_list":[
+               
+            ],
+            "applicationsolution_list":[
+               
+            ],
+            "softwares_list":[
+               
+            ],
+            "providercontracts_list":[
+               
+            ],
+            "services_list":[
+               
+            ],
+            "tickets_list":[
+               
+            ],
+            "serialnumber":"1H85051GVP",
+            "location_id":"23",
+            "location_name":"OFICINA CENTRAL",
+            "status":"Asignado",
+            "brand_id":"668",
+            "brand_name":"HP",
+            "model_id":"686",
+            "model_name":"15-fc0012la",
+            "asset_number":"",
+            "purchase_date":"",
+            "end_of_warranty":"",
+            "pdpep":"",
+            "pdoc":"",
+            "pditem":"",
+            "pdcan":"8",
+            "pddescripcion":"HP 15-fc0012la",
+            "pdasigned_id":"1211",
+            "finalclass":"PC",
+            "friendlyname":"YAOCLT2508",
+            "obsolescence_flag":false,
+            "obsolescence_date":"",
+            "org_id_friendlyname":"TEPSI",
+            "org_id_obsolescence_flag":"",
+            "location_id_friendlyname":"OFICINA CENTRAL",
+            "location_id_obsolescence_flag":"",
+            "brand_id_friendlyname":"HP",
+            "model_id_friendlyname":"15-fc0012la",
+            "pdasigned_id_friendlyname":"Huascar Jose Rollano Montes",
+            "pdasigned_id_obsolescence_flag":""
+         }
+      }
+   }
+}
